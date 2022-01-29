@@ -49,12 +49,11 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>Navigation</h3>
+        <h3>Navegación</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>      
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
+        <li><a href="{{ site.baseurl }}/about">Sobre mi <span class="badge badge-primary">new</span></a></li>
+        <li><a href="{{ site.baseurl }}/authors">Autores </a></li>     
+        <li><a href="{{ site.baseurl }}/contact">Contacto</a></li>       
     </ul>   
 </nav>
 
@@ -93,15 +92,16 @@
     {% if site.mailchimp-list %}
     <!-- Newsletter
     ================================================== -->
-    <div class="newsletter text-center">
+   <!-- <div class="newsletter text-center">
         <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="email" placeholder="Tu e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
             <input type="submit" value="Subscribe" name="subscribe" class="heart">
             </div>
         </form>
     </div>
+    -->
     {% endif %}
     
 </div>
@@ -111,11 +111,11 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+            <div class="col-md-6 col-sm-12 text-center text-lg-left ">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
+                <p>Build with <aux class="text-primary">Jekyll </aux>and <span >&#9749;</span></p>
             </div>
         </div>
     </div>

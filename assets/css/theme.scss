@@ -3,7 +3,7 @@
 ---
 
 $brown: #B59F62;
-$teal: #40FFDC;
+$teal:  #993399;
 $black: #111;
 $primary: $teal;
 $dark:    $black;
@@ -50,6 +50,9 @@ h1,h2,h3,h4,h5,h6 {
 .bigradius {
     border-radius: 40px;
 }
+.love {
+    color: rgb(28, 27, 29);
+  }
 .mb-neg-30 {
     margin-bottom:-30px;
 }
@@ -114,7 +117,7 @@ img, img:hover {
 }
 // menu
 .navbar-brand img {
-    max-height:80px;
+    max-height:200px;
     margin-bottom:40px;
     margin-top:40px;
 }
@@ -126,7 +129,7 @@ img, img:hover {
     height: 100%;
     border-right: solid rgba(0, 0, 0, 0.07) 1px;
     z-index: 1022;
-    background:#fff;
+    background: #993399;
 }
 .nav-icon {
     position: fixed;
