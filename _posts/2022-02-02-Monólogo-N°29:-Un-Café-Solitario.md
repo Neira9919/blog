@@ -2,7 +2,7 @@
 layout: post
 title:  "Monólogo N°29: Un Café Solitario"
 author: DeltaScream
-categories: [ Escritos ]
+categories: [ Escrito ]
 tags: [ Monólogo ]
 image: https://64.media.tumblr.com/4808de564a1d38b2a37807a2739fb2db/tumblr_mx9qn9tfo61r1bac2o1_1280.jpg
 comments: false
