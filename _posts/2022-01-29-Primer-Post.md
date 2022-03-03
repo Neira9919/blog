@@ -2,8 +2,8 @@
 layout: post
 title:  "Primer post"
 author: DeltaScream
-categories: [ Test ]
-tags: [ Escrito ]
+categories: [ Artículo ]
+tags: [ Test ]
 image: assets/images/p1.jpg
 comments: false
 toc: false

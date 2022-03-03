@@ -2,8 +2,8 @@
 layout: post
 title:  "Blogueando desde el celular con nvim"
 author: DeltaScream
-categories: [ Test ]
-tags: [ Escrito ]
+categories: [ Artículo ]
+tags: [ Test ]
 image: https://64.media.tumblr.com/76f4ec4bbd4f2e4617fbf4f39bcc037a/3ee1aad9750287a5-3c/s1280x1920/fd118a6d165662ccbb548f840979cb54d597bd7f.png 
 comments: false
 toc: false
