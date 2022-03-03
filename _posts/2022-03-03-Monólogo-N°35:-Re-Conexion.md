@@ -3,7 +3,7 @@ layout: post
 title:  "Monólogo N°35: Re-Conexion"
 author: DeltaScream
 categories: [ Escrito ]
-tags: [ Monólogo DeltaScream-Fav ]
+tags: [ Monólogo, DeltaScream-Fav ]
 image: https://64.media.tumblr.com/42ca080ccadbc0eb9ad9fcd48278b089/tumblr_ow6tykzL6Q1uj7bmqo1_500.jpg
 comments: false
 toc: false
