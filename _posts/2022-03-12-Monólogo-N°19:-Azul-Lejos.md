@@ -17,22 +17,22 @@ No me ata la cordura, <br>
 Mis recuerdos no le alcanzan, <br>
 Ya no veo mis recodos, <br>
 Ni ya siento la esperanza. <br>
-
+<br>
 Han pasado cientos, quizás miles, <br> 
 Tiempos muertos de desvelo, <br>
 Nos colgamos de las vides, <br>
 tras el olvido y su reflejo, <br>
-
+<br>
 Ocultamos tras las risas, <br>
 Heridas que no padecemos, <br>
 Pues no son nuestras cicatrices, <br>
 Aunque sentimos y la vemos. <br>
-
+<br>
 Triste el juicio de aquel juez, <br>
 Que en el dolor busca consuelo, <br>
 Que se juzga y busca ser feliz, <br>
 Sus venas brillan ya, como azulejos. <br>
-
+<br>
 
 <span style="color:#993399">Dedicado a Tamara.</span>
 </p>
